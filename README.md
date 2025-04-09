@@ -1,11 +1,11 @@
 ### Hi there, I'm Jenjira Punkalong! 👋
 
-I'm passionate about **Cybersecurity**, **DevSecOps**, and building secure digital solutions. 🔐✨
+I am passionate about **Cybersecurity**, **DevSecOps**, and building secure digital solutions. 🔐✨
 
 ---
 
 ### 🚀 About Me
-- 👩‍💻 **I’m interested in:** Information Security, Threat Analysis, Secure Software Development, and Incident Response.
+- 👩‍💻 **I am interested in:** Information Security, Threat Analysis, Secure Software Development, and Incident Response.
 - 🌱 **Currently learning:** Identity & Access Management (IAM), Azure Security, and advanced threat detection using SIEM tools.
 - 🤝 **Open to collaborating on:** Cybersecurity research projects, DevSecOps practices, threat hunting initiatives, and educational cybersecurity applications.
 - 📚 **Background:** MSc in Information Security from Stockholm University. Currently enhancing my cybersecurity skills at KTH .
