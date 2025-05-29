@@ -5,10 +5,10 @@ I am passionate about **Cybersecurity**, **DevSecOps**, and building secure digi
 ---
 
 ### 🚀 About Me
-- 👩‍💻 **I am interested in:** Information Security, Threat Analysis, Secure Software Development, and Incident Response.
+- 👩‍💻 **I am interested in:** Information Security, Threat Analysis, Secure Software Development, Security monitoring.
 - 🌱 **Currently learning:** Identity & Access Management, advanced threat detection using SIEM tools and developing and analyzing intentionally vulnerable applications.
 - 🤝 **Open to collaborating on:** Cybersecurity research projects, DevSecOps practices, threat hunting initiatives, and educational cybersecurity applications.
-- 📚 **Background:** MSc in Information Security from Stockholm University. Currently enhancing my cybersecurity skills at KTH .
+- 📚 **Background:** MSc in Information Security from Stockholm University. Currently enhancing my cybersecurity skills at KTH.
 
 ---
 
